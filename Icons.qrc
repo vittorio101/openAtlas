@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/menus">
+        <file alias="db_admin">Icons_48x48/menus/Database_Administration.png</file>
+        <file alias="db_connect">Icons_48x48/menus/Database_Connect.png</file>
+        <file alias="db_connectionInfo">Icons_48x48/menus/Database_ConnectionInfo.png</file>
+        <file alias="db_createConnection">Icons_48x48/menus/Database_CreateConnection.png</file>
+        <file alias="help_aboutOpenAtlas">Icons_48x48/menus/Help_AboutOpenAtlas.png</file>
+        <file alias="help_aboutQt">Icons_48x48/menus/Help_AboutQt.png</file>
+        <file alias="help_help">Icons_48x48/menus/Help_Help.png</file>
+        <file alias="help_index">Icons_48x48/menus/Help_index.png</file>
+        <file alias="help_openAtlasWeb">Icons_48x48/menus/Help_openAtlasWeb.png</file>
+        <file alias="project_exit">Icons_48x48/menus/Project_Exit.png</file>
+        <file alias="settings_preferences">Icons_48x48/menus/Settings_Preferences.png</file>
+    </qresource>
+    <qresource prefix="/mainWIndow">
+        <file alias="content">Icons_48x48/main_window/DB_Content.png</file>
+        <file alias="filter">Icons_48x48/main_window/view-filter.png</file>
+    </qresource>
+    <qresource prefix="/buttons">
+        <file alias="edit">Icons_48x48/buttons/document-edit.png</file>
+        <file alias="save">Icons_48x48/buttons/document-save-5.png</file>
+        <file alias="cancel">Icons_48x48/buttons/Button_Cancel.png</file>
+        <file alias="add">Icons_48x48/tools/Tool_add.png</file>
+        <file alias="delete">Icons_48x48/tools/Tool_delete.png</file>
+        <file alias="zoomfit">Icons_48x48/buttons/zoom-fit-best-3.png</file>
+        <file alias="zoomin">Icons_48x48/buttons/zoom-in-4.png</file>
+        <file alias="zoomorig">Icons_48x48/buttons/zoom-original-3.png</file>
+        <file alias="zoomout">Icons_48x48/buttons/zoom-out-4.png</file>
+        <file alias="info">Icons_48x48/buttons/document-properties.png</file>
+        <file alias="ok">Icons_48x48/buttons/Button_Ok.png</file>
+        <file alias="reward">Icons_48x48/buttons/Button_Reward.png</file>
+        <file alias="folder">Icons_48x48/buttons/folder-3.png</file>
+        <file alias="forward">Icons_48x48/buttons/Button_Forward.png</file>
+        <file alias="connect">Icons_48x48/buttons/Database_Connect.png</file>
+        <file alias="wizard">Icons_48x48/buttons/Button_Wizard.png</file>
+        <file alias="down">Icons_48x48/buttons/go-down-4.png</file>
+        <file alias="home">Icons_48x48/buttons/go-home-4.png</file>
+        <file alias="up">Icons_48x48/buttons/go-up-4.png</file>
+    </qresource>
+    <qresource prefix="/small">
+        <file alias="connected">Icons_22x22/network-connect-3.png</file>
+        <file alias="disconnected">Icons_22x22/network-disconnect-3.png</file>
+        <file alias="working">Icons_22x22/working.png</file>
+    </qresource>
+</RCC>
