@@ -3,6 +3,10 @@ openAtlas
 openATLAS-README-file
 version 01, 2013-14-07
 
+
+This is the deprecated version of OpenAtlas. For the recent version please visit:
+https://github.com/stefaneichert/OpenAtlas-1
+
 OpenATLAS is a database application for the work with archeological,
 historical and spatial data. The developement is currently at an
 early stage and carried out by a small team from the University of Vienna.
@@ -16,3 +20,6 @@ OpenATLAS is powered by Postgresql and PostGIS (or Sqlite and Spatialite
 in the file based-offline version) and therefore connectible to every
 common GIS program like Qgis or ArcGIS. The project is written in c++,
 using the Qt-framework in version 5.1 (status 2013-07-14).
+
+
+For more Info visit: www.openatlas.eu
